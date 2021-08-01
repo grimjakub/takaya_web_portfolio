@@ -40,6 +40,7 @@
   <component name="PropertiesComponent">
     <property name="ASKED_MARK_IGNORED_FILES_AS_EXCLUDED" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Coding/Python/Python learning from dropbox/Engeto" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -78,7 +79,14 @@
       <option name="project" value="LOCAL" />
       <updated>1627827196132</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="test">
+      <created>1627827410472</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1627827410472</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -98,18 +106,18 @@
     <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1627826319824">
+    <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1627827551240">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="261" key="FileChooserDialogImpl/0.0.1920.1040/-1280.54.1280.984@0.0.1920.1040" timestamp="1627826319824" />
+    <state x="740" y="261" key="FileChooserDialogImpl/0.0.1920.1040/-1280.54.1280.984@0.0.1920.1040" timestamp="1627827551240" />
     <state x="679" y="384" width="259" height="276" key="Github.ShareDialog" timestamp="1627827018719">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="679" y="384" width="259" height="276" key="Github.ShareDialog/0.0.1920.1040/-1280.54.1280.984@0.0.1920.1040" timestamp="1627827018719" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1627827198126">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1627827413649">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1280.54.1280.984@0.0.1920.1040" timestamp="1627827198126" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1280.54.1280.984@0.0.1920.1040" timestamp="1627827413649" />
     <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1627826472281">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
