@@ -19,8 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="61a97eff-a316-43fa-9dd3-96424595f6ca" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="61a97eff-a316-43fa-9dd3-96424595f6ca" name="Default Changelist" comment="test">
+      <change beforePath="$PROJECT_DIR$/test.html" beforeDir="false" afterPath="$PROJECT_DIR$/test.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +37,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_MARK_IGNORED_FILES_AS_EXCLUDED" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -48,6 +49,14 @@
       <option name="presentableId" value="Default" />
       <updated>1627826152799</updated>
     </task>
+    <task id="LOCAL-00001" summary="test">
+      <created>1627826905889</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1627826905889</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -62,15 +71,19 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1627826319824">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="261" key="FileChooserDialogImpl/0.0.1920.1040/-1280.54.1280.984@0.0.1920.1040" timestamp="1627826319824" />
-    <state x="830" y="418" width="259" height="276" key="Github.ShareDialog" timestamp="1627826812158">
+    <state x="679" y="384" width="259" height="276" key="Github.ShareDialog" timestamp="1627827018719">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="830" y="418" width="259" height="276" key="Github.ShareDialog/0.0.1920.1040/-1280.54.1280.984@0.0.1920.1040" timestamp="1627826812158" />
+    <state x="679" y="384" width="259" height="276" key="Github.ShareDialog/0.0.1920.1040/-1280.54.1280.984@0.0.1920.1040" timestamp="1627827018719" />
     <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1627826472281">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
